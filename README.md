@@ -18,3 +18,7 @@
 - **E2 270: Quantum Information Theory (3:0) – Spring 2025**  
   *Instructor:* Prof. Shayan Srinivasa Garani (IISc)  
   🔗 [Course Website](https://labs.dese.iisc.ac.in/pnsil/qit-spring-2025/)
+
+- **QT 207: Introduction to Quantum Computation**  
+  *Instructors:* Navin Kashyap and Shayan Srinivasa Garani (IISc)  
+  🔗 [Course Website](https://ece.iisc.ac.in/~nkashyap/QT_207/)
