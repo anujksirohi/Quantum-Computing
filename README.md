@@ -9,3 +9,12 @@
 7. https://www.tudelft.nl/over-tu-delft/strategie/vision-teams/quantum-computing/what-is-quantum/a-brief-history-of-quantum
 8. https://www.ibm.com/quantum/qiskit
 9. https://learning.quantum.ibm.com
+## 📚 Courses
+
+- **ECS417/617: Introduction to Quantum Computer Science**  
+  *Instructor:* Ankur Raina (IISER Bhopal)  
+  🔗 [Course Website](https://sites.google.com/view/ankurraina/about-me)
+
+- **E2 270: Quantum Information Theory (3:0) – Spring 2025**  
+  *Instructor:* Prof. Shayan Srinivasa Garani (IISc)  
+  🔗 [Course Website](https://labs.dese.iisc.ac.in/pnsil/qit-spring-2025/)
